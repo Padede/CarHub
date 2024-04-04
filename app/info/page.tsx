@@ -32,7 +32,7 @@ function Info() {
           </p>
         </div>
         <div className="whyme_card">
-        <img src="./../reliability.JPG" alt="" className="whyme_img"/>
+        <img src="./../reliability.jpg" alt="" className="whyme_img"/>
           <h1 className="whyme_title font-bold text-center padding-y">RELIABILITY</h1>
           <p className="whyme_subtitle text-center">By coming to us, you can count on the maximum level of reliability, starting 
           from the car itself and ending with a refund for the cancellation of the lease.
